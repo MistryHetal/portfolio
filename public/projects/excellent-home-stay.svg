@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b9c9ff"/><stop offset="1" stop-color="#f8d9c6"/></linearGradient>
+    <linearGradient id="hill" x2="1" y2="1"><stop stop-color="#82b69c"/><stop offset="1" stop-color="#3d796f"/></linearGradient>
+    <linearGradient id="house" x2="1" y2="1"><stop stop-color="#fff5df"/><stop offset="1" stop-color="#e7c7a6"/></linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#sky)"/>
+  <circle cx="727" cy="111" r="52" fill="#fff5cf" opacity=".8"/>
+  <path d="M0 302 151 194l150 112 149-137 186 150 140-103 124 105v239H0Z" fill="#769e99" opacity=".72"/>
+  <path d="M0 357q185-112 347 1t302-10q139-82 251 8v204H0Z" fill="url(#hill)"/>
+  <path d="M115 560q100-150 222-112t198 112" fill="#b5c990" opacity=".7"/>
+  <g transform="translate(330 160)">
+    <rect x="38" y="126" width="286" height="193" rx="8" fill="url(#house)"/>
+    <path d="m12 145 168-119 172 119Z" fill="#755e65"/>
+    <path d="m72 132 108-77 111 77" fill="#9d7775"/>
+    <rect x="69" y="176" width="70" height="67" rx="5" fill="#6ba6a2"/>
+    <path d="M104 176v67M69 209h70" stroke="#f7e8d2" stroke-width="7"/>
+    <rect x="220" y="176" width="70" height="67" rx="5" fill="#6ba6a2"/>
+    <path d="M255 176v67M220 209h70" stroke="#f7e8d2" stroke-width="7"/>
+    <path d="M155 319v-75q0-30 27-30t27 30v75" fill="#a87868"/>
+    <circle cx="196" cy="278" r="4" fill="#f3d48f"/>
+  </g>
+  <g fill="#eaf4d1"><circle cx="287" cy="419" r="8"/><circle cx="304" cy="430" r="6"/><circle cx="625" cy="407" r="7"/><circle cx="642" cy="420" r="5"/></g>
+  <rect x="35" y="34" width="224" height="48" rx="24" fill="#fff" opacity=".8"/>
+  <text x="60" y="64" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#345b59">YOUR NEXT GETAWAY</text>
+</svg>

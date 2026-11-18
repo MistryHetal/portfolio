@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#b4e8d3"/><stop offset="1" stop-color="#438f83"/></linearGradient>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#183d3b"/><stop offset="1" stop-color="#102827"/></linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#bg)"/>
+  <circle cx="736" cy="99" r="138" fill="#efffd7" opacity=".2"/>
+  <rect x="94" y="67" width="712" height="426" rx="26" fill="url(#panel)"/>
+  <rect x="94" y="67" width="712" height="68" rx="26" fill="#214a45"/>
+  <circle cx="138" cy="101" r="14" fill="#a2e8c1"/>
+  <text x="166" y="108" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#effff6">PULSE  /  TRAINING</text>
+  <rect x="640" y="87" width="126" height="30" rx="15" fill="#376b60"/>
+  <text x="660" y="107" font-family="Arial,sans-serif" font-size="12" fill="#d8f6e5">WEEK 04</text>
+  <text x="132" y="184" font-family="Arial,sans-serif" font-size="15" fill="#9ac8b5">WEEKLY PROGRESS</text>
+  <text x="132" y="247" font-family="Arial,sans-serif" font-size="55" font-weight="700" fill="#f2fff5">78%</text>
+  <text x="134" y="273" font-family="Arial,sans-serif" font-size="14" fill="#9ac8b5">of your weekly goal</text>
+  <rect x="133" y="299" width="272" height="10" rx="5" fill="#376b60"/>
+  <rect x="133" y="299" width="212" height="10" rx="5" fill="#9be5b9"/>
+  <g fill="#9be5b9"><rect x="470" y="324" width="28" height="72" rx="7"/><rect x="516" y="289" width="28" height="107" rx="7"/><rect x="562" y="302" width="28" height="94" rx="7"/><rect x="608" y="248" width="28" height="148" rx="7"/><rect x="654" y="272" width="28" height="124" rx="7"/><rect x="700" y="216" width="28" height="180" rx="7"/></g>
+  <path d="M455 421h300" stroke="#376b60" stroke-width="2"/>
+  <g fill="#a4cdb9" font-family="Arial,sans-serif" font-size="12"><text x="474" y="443">M</text><text x="521" y="443">T</text><text x="567" y="443">W</text><text x="612" y="443">T</text><text x="659" y="443">F</text><text x="705" y="443">S</text></g>
+</svg>
